@@ -28,7 +28,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-![](calc_demo.gif)
+![](calc_demo2.gif)
 
 ## Notes
 
